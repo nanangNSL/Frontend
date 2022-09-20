@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+<h2 align="center">Frontend Tes</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<details>
+<summary>Table of Contents</summary>
+<br/>
+  
 
-### `npm start`
+* [Screenshoot](#screen)
+* [Made with](#built)
+* [Getting Started](#getting)
+  * [Prerequisites](#Prerequisites)
+  * [Installation](#Installation)
+* [License](#License)
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3 id=screen>Screenshot</h3>
 
-### `npm test`
+<table>
+  <tr>
+  <th>Table & search</th>
+  <th>About</th>
+    <th>Contact</th>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/45787278/191382791-7bfd4fd7-11d5-4c5b-91ba-090c1d059bc1.png" /></td>
+     <td><img src="https://user-images.githubusercontent.com/45787278/191383283-d33b3e86-92b4-4feb-a9ea-0a9dbdeed158.png" /></td>
+  <td><img src="https://user-images.githubusercontent.com/45787278/191382762-6d44f02e-a77f-42c9-b01b-f5aaa9b8b937.png" /></td>
+   
+  </tr>
+</table>
+<blockquote>Note: Click to zoom image</blockquote>
 
-### `npm run build`
+<h3 id=built>Made With</h3>
+<ul>
+  <li>React JS</li>
+   <li>Ant Design</li>
+  <li>Etc.</li>
+</ul>
+<h3 id=getting>Getting started</h3>
+<ul>
+   <li>
+     <h4 id=Prerequisites>Prerequiresites</h4>
+     <ul>
+       <li>Downloading and installing Node.js and npm or you can use command:</li>
+       <pre><code>npm install npm@latest -g</code> </pre>
+       <li>Checking your version of npm and Node.js</li>
+       <p>To see if you already have Node.js and npm installed and check the installed version, run the following commands:</p>
+       <pre><code>node -v</code></pre>
+        <pre><code>npm -v</code></pre>
+       <p>In this project I use <code>version v16.15.1</code></p> 
+       </li>
+     </ul>
+  </li>
+  <li>
+     <h4 id=Installation>Intalation</h4>
+      <ul>
+        <li>Clone project
+          <ul>
+            <li>Client
+             <pre><code>git clone -b master https://github.com/nanangNSL/Frontend.git</code> </pre>
+             </li>
+          </ul>
+        </li>
+        <li>Install all dependencies
+             <pre><code>npm install</code> </pre>
+            </li>
+      </ul>
+   </li>
+</ul> 
+    
+<h3 id=License>License</h3>
+<ul>
+  <li><code><a href="https://github.com/nanangNSL/Frontend/blob/main/LICENSE">MIT</a></code></li>
+</ul>
+<p>Happy code!☕</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
